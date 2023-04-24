@@ -1,0 +1,5 @@
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.csproj.CoreCompileInputs.cache

@@ -32,7 +32,9 @@ aluno1.rg = Console.ReadLine();
 Console.WriteLine($"Você é bolsista? Digite '1' para sim ou '2' para não.");
 escolhaBolsista = Console.ReadLine();
 
-if()
+if(escolhaBolsista == "1"){
+     aluno1
+}
 
 
 
