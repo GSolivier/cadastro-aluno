@@ -3,3 +3,13 @@ C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.Gene
 C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.AssemblyInfoInputs.cache
 C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.AssemblyInfo.cs
 C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\cadastro-aluno\bin\Debug\net7.0\cadastro-aluno.exe
+C:\Users\42634177801\Desktop\cadastro-aluno\bin\Debug\net7.0\cadastro-aluno.deps.json
+C:\Users\42634177801\Desktop\cadastro-aluno\bin\Debug\net7.0\cadastro-aluno.runtimeconfig.json
+C:\Users\42634177801\Desktop\cadastro-aluno\bin\Debug\net7.0\cadastro-aluno.dll
+C:\Users\42634177801\Desktop\cadastro-aluno\bin\Debug\net7.0\cadastro-aluno.pdb
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.dll
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\refint\cadastro-aluno.dll
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.pdb
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\cadastro-aluno.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\cadastro-aluno\obj\Debug\net7.0\ref\cadastro-aluno.dll

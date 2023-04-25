@@ -37,5 +37,11 @@ namespace cadastro_aluno
                 return valorMensalidade;
             }
         }
+
+          public string teste(string rg)
+        {
+            return Convert.ToUInt64(rg).ToString(@"00\.000\.000\-0");
+        }
+    
     }
 }
